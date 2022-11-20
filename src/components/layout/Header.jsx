@@ -1,13 +1,9 @@
-import React from 'react'
+import React from 'react';
 
 export const Header = () => {
   return (
     <header className="header">
-      <div className="logo">
-        <div className="play"></div>
-      </div>
-
-      <h1>ReactBlog</h1>
+      <h1>Tecnología</h1>
     </header>
   )
 }
